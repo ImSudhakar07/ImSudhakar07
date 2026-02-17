@@ -1,3 +1,5 @@
+<h1 align="center">Hey, I'm Sudhakar</h1>
+
 ```
 Product Manager by craft. Vibe Coder by curiosity.
 5+ years shaping B2C products in news publishing & subscriptions.
